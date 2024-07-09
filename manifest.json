@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Codalysis",
+  "version": "1.0",
+  "description": "Calculates the time complexity of the given code.",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
