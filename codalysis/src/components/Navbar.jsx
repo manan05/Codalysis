@@ -23,7 +23,7 @@ const Navbar = () => {
             to="/analyze"
             className="text-white hover:text-slate-500 transition duration-300 mr-6"
           >
-            Analyse
+            Analyze
           </Link>
           <Link
             to="/examples"
